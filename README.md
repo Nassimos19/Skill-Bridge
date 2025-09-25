@@ -63,7 +63,7 @@ We welcome contributions from developers of all skill levels! Follow these steps
    ```
    git checkout -b feature/<BRANCH_NAME>
    ```
-   Learn more about feature branching [here](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow).
+   Learn more about feature branching [here](https://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows).
 
 4. **Make Your Changes**  
    Write code, fix bugs, or improve documentation. Ensure your changes align with the project's goals.
